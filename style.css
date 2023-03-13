@@ -8,3 +8,11 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+/* Add class to CSS */
+.circle {
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
